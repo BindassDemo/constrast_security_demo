@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.aspectsecurity.contrast.contrastjenkins.ContrastPluginConfig_-ContrastPluginConfigDescriptor plugin="contrast-jenkins@1.0-SNAPSHOT">
+    <teamServerProfiles>
+        <com.aspectsecurity.contrast.contrastjenkins.TeamServerProfile>
+            <name>Sample Application</name>
+            <username>agent_be0ffada-a48c-45e9-bf95-9c79901a045a@VinaysOrg</username>
+            <apiKey>eVqcIwW87UzFKdL3r6WJCfmgg14Ldt4g</apiKey>
+            <serviceKey>66KH5T7S1V6YKHB8</serviceKey>
+            <orgUuid>be0ffada-a48c-45e9-bf95-9c79901a045a</orgUuid>
+            <teamServerUrl>https://ce.contrastsecurity.com/Contrast</teamServerUrl>
+            <applicationName>Sample Application</applicationName>
+            <failOnWrongApplicationName>false</failOnWrongApplicationName>
+        </com.aspectsecurity.contrast.contrastjenkins.TeamServerProfile>
+    </teamServerProfiles>
+</com.aspectsecurity.contrast.contrastjenkins.ContrastPluginConfig_-ContrastPluginConfigDescriptor>

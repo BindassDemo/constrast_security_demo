@@ -1,0 +1,23 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+contrast-maven-plugin.iml
+
+# Maven
+*.log
+target/
+output/
+logs/
+bin/
+work/
+.DS_Store
+
+#VSCode
+.classpath
+.factorypath
+.project
+.settings
+.vscode/
